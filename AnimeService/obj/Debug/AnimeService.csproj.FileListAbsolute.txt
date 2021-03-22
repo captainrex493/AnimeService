@@ -1,0 +1,12 @@
+C:\Users\keval\source\repos\AnimeService\AnimeService\bin\Debug\AnimeService.exe.config
+C:\Users\keval\source\repos\AnimeService\AnimeService\bin\Debug\AnimeService.exe
+C:\Users\keval\source\repos\AnimeService\AnimeService\bin\Debug\AnimeService.pdb
+C:\Users\keval\source\repos\AnimeService\AnimeService\bin\Debug\FuzzySharp.dll
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.csprojAssemblyReference.cache
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.AnimeService.resources
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.ProjectInstaller.resources
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.csproj.GenerateResource.cache
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.csproj.CoreCompileInputs.cache
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.csproj.CopyComplete
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.exe
+C:\Users\keval\source\repos\AnimeService\AnimeService\obj\Debug\AnimeService.pdb
